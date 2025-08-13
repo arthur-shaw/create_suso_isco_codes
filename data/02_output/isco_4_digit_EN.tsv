@@ -1,0 +1,437 @@
+value	title	parentvalue
+1111	Legislators	111
+1112	Senior Government Officials	111
+1113	Traditional Chiefs and Heads of Villages	111
+1114	Senior Officials of Special-interest Organizations	111
+1120	Managing Directors and Chief Executives	112
+1211	Finance Managers	121
+1212	Human Resource Managers	121
+1213	Policy and Planning Managers	121
+1219	Business Services and Administration Managers Not Elsewhere Classified	121
+1221	Sales and Marketing Managers	122
+1222	Advertising and Public Relations Managers	122
+1223	Research and Development Managers	122
+1311	Agricultural and Forestry Production Managers	131
+1312	Aquaculture and Fisheries Production Managers	131
+1321	Manufacturing Managers	132
+1322	Mining Managers	132
+1323	Construction Managers	132
+1324	Supply, Distribution and Related Managers	132
+1330	Information and Communications Technology Services Managers	133
+1341	Child Care Services Managers	134
+1342	Health Services Managers	134
+1343	Aged Care Services Managers	134
+1344	Social Welfare Managers	134
+1345	Education Managers	134
+1346	Financial and Insurance Services Branch Managers	134
+1349	Professional Services Managers Not Elsewhere Classified	134
+1411	Hotel Managers	141
+1412	Restaurant Managers	141
+1420	Retail and Wholesale Trade Managers	142
+1431	Sports, Recreation and Cultural Centre Managers	143
+1439	Services Managers Not Elsewhere Classified	143
+2111	Physicists and Astronomers	211
+2112	Meteorologists	211
+2113	Chemists	211
+2114	Geologists and Geophysicists	211
+2120	Mathematicians, Actuaries and Statisticians	212
+2131	Biologists, Botanists, Zoologists and Related Professionals	213
+2132	Farming, Forestry and Fisheries Advisers	213
+2133	Environmental Protection Professionals	213
+2141	Industrial and Production Engineers	214
+2142	Civil Engineers	214
+2143	Environmental Engineers	214
+2144	Mechanical Engineers	214
+2145	Chemical Engineers	214
+2146	Mining Engineers, Metallurgists and Related Professionals	214
+2149	Engineering Professionals Not Elsewhere Classified	214
+2151	Electrical Engineers	215
+2152	Electronics Engineers	215
+2153	Telecommunications Engineers	215
+2161	Building Architects	216
+2162	Landscape Architects	216
+2163	Product and Garment Designers	216
+2164	Town and Traffic Planners	216
+2165	Cartographers and Surveyors	216
+2166	Graphic and Multimedia Designers	216
+2211	Generalist Medical Practitioners	221
+2212	Specialist Medical Practitioners	221
+2221	Nursing Professionals	222
+2222	Midwifery Professionals	222
+2230	Traditional and Complementary Medicine Professionals	223
+2240	Paramedical Practitioners	224
+2250	Veterinarians	225
+2261	Dentists	226
+2262	Pharmacists	226
+2263	Environmental and Occupational Health and Hygiene Professionals	226
+2264	Physiotherapists	226
+2265	Dieticians and Nutritionists	226
+2266	Audiologists and Speech Therapists	226
+2267	Optometrists and Ophthalmic Opticians	226
+2269	Health Professionals Not Elsewhere Classified	226
+2310	University and Higher Education Teachers	231
+2320	Vocational Education Teachers	232
+2330	Secondary Education Teachers	233
+2341	Primary School Teachers	234
+2342	Early Childhood Educators	234
+2351	Education Methods specialists	235
+2352	Special Needs Teachers	235
+2353	Other Language Teachers	235
+2354	Other Music Teachers	235
+2355	Other Arts Teachers	235
+2356	Information Technology Trainers	235
+2359	Teaching Professionals Not Elsewhere Classified	235
+2411	Accountants	241
+2412	Financial and Investment Advisers	241
+2413	Financial Analysts	241
+2421	Management and Organization Analysts	242
+2422	Policy Administration Professionals	242
+2423	Personnel and Careers Professionals	242
+2424	Training and Staff Development Professionals	242
+2431	Advertising and Marketing Professionals	243
+2432	Public Relations Professionals	243
+2433	Technical and Medical Sales Professionals (excluding ICT)	243
+2434	Information and Communications Technology Sales Professionals	243
+2511	Systems Analysts	251
+2512	Software Developers	251
+2513	Web and Multimedia Developers	251
+2514	Applications Programmers	251
+2519	Software and Applications Developers and Analysts Not Elsewhere Classified	251
+2521	Database Designers and Administrators	252
+2522	Systems Administrators	252
+2523	Computer Network Professionals	252
+2529	Database and Network Professionals Not Elsewhere Classified	252
+2611	Lawyers	261
+2612	Judges	261
+2619	Legal Professionals Not Elsewhere Classified	261
+2621	Archivists and Curators	262
+2622	Librarians and Related Information Professionals	262
+2631	Economists	263
+2632	Sociologists, Anthropologists and Related Professionals	263
+2633	Philosophers, Historians and Political Scientists	263
+2634	Psychologists	263
+2635	Social Work and Counselling Professionals	263
+2636	Religious Professionals	263
+2641	Authors and Related Writers	264
+2642	Journalists	264
+2643	Translators, Interpreters and Other Linguists	264
+2651	Visual Artists	265
+2652	Musicians, Singers and Composers	265
+2653	Dancers and Choreographers	265
+2654	Film, Stage and Related Directors and Producers	265
+2655	Actors	265
+2656	Announcers on Radio, Television and Other Media	265
+2659	Creative and Performing Artists Not Elsewhere Classified	265
+3111	Chemical and Physical Science Technicians	311
+3112	Civil Engineering Technicians	311
+3113	Electrical Engineering Technicians	311
+3114	Electronics Engineering Technicians	311
+3115	Mechanical Engineering Technicians	311
+3116	Chemical Engineering Technicians	311
+3117	Mining and Metallurgical Technicians	311
+3118	Draughtspersons	311
+3119	Physical and Engineering Science Technicians Not Elsewhere Classified	311
+3121	Mining Supervisors	312
+3122	Manufacturing Supervisors	312
+3123	Construction Supervisors	312
+3131	Power Production Plant Operators	313
+3132	Incinerator and Water Treatment Plant Operators	313
+3133	Chemical Processing Plant Controllers	313
+3134	Petroleum and Natural Gas Refining Plant Operators	313
+3135	Metal Production Process Controllers	313
+3139	Process Control Technicians Not Elsewhere Classified	313
+3141	Life Science Technicians (excluding Medical)	314
+3142	Agricultural Technicians	314
+3143	Forestry Technicians	314
+3151	Ships’ Engineers	315
+3152	Ships’ Deck Officers and Pilots	315
+3153	Aircraft Pilots and Related Associate Professionals	315
+3154	Air Traffic Controllers	315
+3155	Air Traffic Safety Electronics Technicians	315
+3211	Medical Imaging and Therapeutic Equipment Technicians	321
+3212	Medical and Pathology Laboratory Technicians	321
+3213	Pharmaceutical Technicians and Assistants	321
+3214	Medical and Dental Prosthetic Technicians	321
+3221	Nursing Associate Professionals	322
+3222	Midwifery Associate Professionals	322
+3230	Traditional and Complementary Medicine Associate Professionals	323
+3240	Veterinary Technicians and Assistants	324
+3251	Dental Assistants and Therapists	325
+3252	Medical Records and Health Information Technicians	325
+3253	Community Health Workers	325
+3254	Dispensing Opticians	325
+3255	Physiotherapy Technicians and Assistants	325
+3256	Medical Assistants	325
+3257	Environmental and Occupational Health Inspectors and Associates	325
+3258	Ambulance Workers	325
+3259	Health Associate Professionals Not Elsewhere Classified	325
+3311	Securities and Finance Dealers and Brokers	331
+3312	Credit and Loans Officers	331
+3313	Accounting Associate Professionals	331
+3314	Statistical, Mathematical and Related Associate Professionals	331
+3315	Valuers and Loss Assessors	331
+3321	Insurance Representatives	332
+3322	Commercial Sales Representatives	332
+3323	Buyers	332
+3324	Trade Brokers	332
+3331	Clearing and Forwarding Agents	333
+3332	Conference and Event Planners	333
+3333	Employment Agents and Contractors	333
+3334	Real Estate Agents and Property Managers	333
+3339	Business Services Agents Not Elsewhere Classified	333
+3341	Office Supervisors	334
+3342	Legal Secretaries	334
+3343	Administrative and Executive Secretaries	334
+3344	Medical Secretaries	334
+3351	Customs and Border Inspectors	335
+3352	Government Tax and Excise Officials	335
+3353	Government Social Benefits Officials	335
+3354	Government Licensing Officials	335
+3355	Police Inspectors and Detectives	335
+3359	Government Regulatory Associate Professionals Not Elsewhere Classified	335
+3411	Legal and Related Associate Professionals	341
+3412	Social Work Associate Professionals	341
+3413	Religious Associate Professionals	341
+3421	Athletes and Sports Players	342
+3422	Sports Coaches, Instructors and Officials	342
+3423	Fitness and Recreation Instructors and Programme Leaders	342
+3431	Photographers	343
+3432	Interior Designers and Decorators	343
+3433	Gallery, Museum and Library Technicians	343
+3434	Chefs	343
+3435	Other Artistic and Cultural Associate Professionals	343
+3511	Information and Communications Technology Operations Technicians	351
+3512	Information and Communications Technology User Support Technicians	351
+3513	Computer Network and Systems Technicians	351
+3514	Web Technicians	351
+3521	Broadcasting and Audiovisual Technicians	352
+3522	Telecommunications Engineering Technicians	352
+4110	General Office Clerks	411
+4120	Secretaries (general)	412
+4131	Typists and Word Processing Operators	413
+4132	Data Entry Clerks	413
+4211	Bank Tellers and Related Clerks	421
+4212	Bookmakers, Croupiers and Related Gaming Workers	421
+4213	Pawnbrokers and Money-lenders	421
+4214	Debt Collectors and Related Workers	421
+4221	Travel Consultants and Clerks	422
+4222	Contact Centre Information Clerks	422
+4223	Telephone Switchboard Operators	422
+4224	Hotel Receptionists	422
+4225	Inquiry Clerks	422
+4226	Receptionists (general)	422
+4227	Survey and Market Research Interviewers	422
+4229	Client Information Workers Not Elsewhere Classified	422
+4311	Accounting and Bookkeeping Clerks	431
+4312	Statistical, Finance and Insurance Clerks	431
+4313	Payroll Clerks	431
+4321	Stock Clerks	432
+4322	Production Clerks	432
+4323	Transport Clerks	432
+4411	Library Clerks	441
+4412	Mail Carriers and Sorting Clerks	441
+4413	Coding, Proofreading and Related Clerks	441
+4414	Scribes and Related Workers	441
+4415	Filing and Copying Clerks	441
+4416	Personnel Clerks	441
+4419	Clerical Support Workers Not Elsewhere Classified	441
+5111	Travel Attendants and Travel Stewards	511
+5112	Transport Conductors	511
+5113	Travel Guides	511
+5120	Cooks	512
+5131	Waiters	513
+5132	Bartenders	513
+5141	Hairdressers	514
+5142	Beauticians and Related Workers	514
+5151	Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments	515
+5152	Domestic Housekeepers	515
+5153	Building Caretakers	515
+5161	Astrologers, Fortune-tellers and Related Workers	516
+5162	Companions and Valets	516
+5163	Undertakers and Embalmers	516
+5164	Pet Groomers and Animal Care Workers	516
+5165	Driving Instructors	516
+5169	Personal Services Workers Not Elsewhere Classified	516
+5211	Stall and Market Salespersons	521
+5212	Street Food Salespersons	521
+5221	Shopkeepers	522
+5222	Shop Supervisors	522
+5223	Shop Sales Assistants	522
+5230	Cashiers and Ticket Clerks	523
+5241	Fashion and Other Models	524
+5242	Sales Demonstrators	524
+5243	Door-to-door Salespersons	524
+5244	Contact Centre Salespersons	524
+5245	Service Station Attendants	524
+5246	Food Service Counter Attendants	524
+5249	Sales Workers Not Elsewhere Classified	524
+5311	Child Care Workers	531
+5312	Teachers’ Aides	531
+5321	Health Care Assistants	532
+5322	Home-based Personal Care Workers	532
+5329	Personal Care Workers in Health Services Not Elsewhere Classified	532
+5411	Firefighters	541
+5412	Police Officers	541
+5413	Prison Guards	541
+5414	Security Guards	541
+5419	Protective Services Workers Not Elsewhere Classified	541
+6111	Field Crop and Vegetable Growers	611
+6112	Tree and Shrub Crop Growers	611
+6113	Gardeners; Horticultural and Nursery Growers	611
+6114	Mixed Crop Growers	611
+6121	Livestock and Dairy Producers	612
+6122	Poultry Producers	612
+6123	Apiarists and Sericulturists	612
+6129	Animal Producers Not Elsewhere Classified	612
+6130	Mixed Crop and Animal Producers	613
+6210	Forestry and Related Workers	621
+6221	Aquaculture Workers	622
+6222	Inland and Coastal Waters Fishery Workers	622
+6223	Deep-sea Fishery Workers	622
+6224	Hunters and Trappers	622
+6310	Subsistence Crop Farmers	631
+6320	Subsistence Livestock Farmers	632
+6330	Subsistence Mixed Crop and Livestock Farmers	633
+6340	Subsistence Fishers, Hunters, Trappers and Gatherers	634
+7111	House Builders	711
+7112	Bricklayers and Related Workers	711
+7113	Stonemasons, Stone Cutters, Splitters and Carvers	711
+7114	Concrete Placers, Concrete Finishers and Related Workers	711
+7115	Carpenters and Joiners	711
+7119	Building Frame and Related Trades Workers Not Elsewhere Classified	711
+7121	Roofers	712
+7122	Floor Layers and Tile Setters	712
+7123	Plasterers	712
+7124	Insulation Workers	712
+7125	Glaziers	712
+7126	Plumbers and Pipe Fitters	712
+7127	Air Conditioning and Refrigeration Mechanics	712
+7131	Painters and Related Workers	713
+7132	Spray Painters and Varnishers	713
+7133	Building Structure Cleaners	713
+7211	Metal Moulders and Coremakers	721
+7212	Welders and Flame Cutters	721
+7213	Sheet Metal Workers	721
+7214	Structural Metal Preparers and Erectors	721
+7215	Riggers and Cable Splicers	721
+7221	Blacksmiths, Hammersmiths and Forging Press Workers	722
+7222	Toolmakers and Related Workers	722
+7223	Metal Working Machine Tool Setters and Operators	722
+7224	Metal Polishers, Wheel Grinders and Tool Sharpeners	722
+7231	Motor Vehicle Mechanics and Repairers	723
+7232	Aircraft Engine Mechanics and Repairers	723
+7233	Agricultural and Industrial Machinery Mechanics and Repairers	723
+7234	Bicycle and Related Repairers	723
+7311	Precision-instrument Makers and Repairers	731
+7312	Musical Instrument Makers and Tuners	731
+7313	Jewellery and Precious Metal Workers	731
+7314	Potters and Related Workers	731
+7315	Glass Makers, Cutters, Grinders and Finishers	731
+7316	Signwriters, Decorative Painters, Engravers and Etchers	731
+7317	Handicraft Workers in Wood, Basketry and Related Materials	731
+7318	Handicraft Workers in Textile, Leather and Related Materials	731
+7319	Handicraft Workers Not Elsewhere Classified	731
+7321	Pre-press Technicians	732
+7322	Printers	732
+7323	Print Finishing and Binding Workers	732
+7411	Building and Related Electricians	741
+7412	Electrical Mechanics and Fitters	741
+7413	Electrical Line Installers and Repairers	741
+7421	Electronics Mechanics and Servicers	742
+7422	Information and Communications Technology Installers and Servicers	742
+7511	Butchers, Fishmongers and Related Food Preparers	751
+7512	Bakers, Pastry-cooks and Confectionery Makers	751
+7513	Dairy Products Makers	751
+7514	Fruit, Vegetable and Related Preservers	751
+7515	Food and Beverage Tasters and Graders	751
+7516	Tobacco Preparers and Tobacco Products Makers	751
+7521	Wood Treaters	752
+7522	Cabinet-makers and Related Workers	752
+7523	Woodworking Machine Tool Setters and Operators	752
+7531	Tailors, Dressmakers, Furriers and Hatters	753
+7532	Garment and Related Patternmakers and Cutters	753
+7533	Sewing, Embroidery and Related Workers	753
+7534	Upholsterers and Related Workers	753
+7535	Pelt Dressers, Tanners and Fellmongers	753
+7536	Shoemakers and Related Workers	753
+7541	Underwater Divers	754
+7542	Shotfirers and Blasters	754
+7543	Product Graders and Testers (excluding Foods and Beverages)	754
+7544	Fumigators and Other Pest and Weed Controllers	754
+7549	Craft and Related Workers Not Elsewhere Classified	754
+8111	Miners and Quarriers	811
+8112	Mineral and Stone Processing Plant Operators	811
+8113	Well Drillers and Borers and Related Workers	811
+8114	Cement, Stone and Other Mineral Products Machine Operators	811
+8121	Metal Processing Plant Operators	812
+8122	Metal Finishing, Plating and Coating Machine Operators	812
+8131	Chemical Products Plant and Machine Operators	813
+8132	Photographic Products Machine Operators	813
+8141	Rubber Products Machine Operators	814
+8142	Plastic Products Machine Operators	814
+8143	Paper Products Machine Operators	814
+8151	Fibre Preparing, Spinning and Winding Machine Operators	815
+8152	Weaving and Knitting Machine Operators	815
+8153	Sewing Machine Operators	815
+8154	Bleaching, Dyeing and Fabric Cleaning Machine Operators	815
+8155	Fur and Leather Preparing Machine Operators	815
+8156	Shoemaking and Related Machine Operators	815
+8157	Laundry Machine Operators	815
+8159	Textile, Fur and Leather Products Machine Operators Not Elsewhere Classified	815
+8160	Food and Related Products Machine Operators	816
+8171	Pulp and Papermaking Plant Operators	817
+8172	Wood Processing Plant Operators	817
+8181	Glass and Ceramics Plant Operators	818
+8182	Steam Engine and Boiler Operators	818
+8183	Packing, Bottling and Labelling Machine Operators	818
+8189	Stationary Plant and Machine Operators Not Elsewhere Classified	818
+8211	Mechanical Machinery Assemblers	821
+8212	Electrical and Electronic Equipment Assemblers	821
+8219	Assemblers Not Elsewhere Classified	821
+8311	Locomotive Engine Drivers	831
+8312	Railway Brake, Signal and Switch Operators	831
+8321	Motorcycle Drivers	832
+8322	Car, Taxi and Van Drivers	832
+8331	Bus and Tram Drivers	833
+8332	Heavy Truck and Lorry Drivers	833
+8341	Mobile Farm and Forestry Plant Operators	834
+8342	Earthmoving and Related Plant Operators	834
+8343	Crane, Hoist and Related Plant Operators	834
+8344	Lifting Truck Operators	834
+8350	Ships’ Deck Crews and Related Workers	835
+9111	Domestic Cleaners and Helpers	911
+9112	Cleaners and Helpers in Offices, Hotels and Other Establishments	911
+9121	Hand Launderers and Pressers	912
+9122	Vehicle Cleaners	912
+9123	Window Cleaners	912
+9129	Other Cleaning Workers	912
+9211	Crop Farm Labourers	921
+9212	Livestock Farm Labourers	921
+9213	Mixed Crop and Livestock Farm Labourers	921
+9214	Garden and Horticultural Labourers	921
+9215	Forestry Labourers	921
+9216	Fishery and Aquaculture Labourers	921
+9311	Mining and Quarrying Labourers	931
+9312	Civil Engineering Labourers	931
+9313	Building Construction Labourers	931
+9321	Hand Packers	932
+9329	Manufacturing Labourers Not Elsewhere Classified	932
+9331	Hand and Pedal Vehicle Drivers	933
+9332	Drivers of Animal-drawn Vehicles and Machinery	933
+9333	Freight Handlers	933
+9334	Shelf Fillers	933
+9411	Fast Food Preparers	941
+9412	Kitchen Helpers	941
+9510	Street and Related Services Workers	951
+9520	Street Vendors (excluding Food)	952
+9611	Garbage and Recycling Collectors	961
+9612	Refuse Sorters	961
+9613	Sweepers and Related Labourers	961
+9621	Messengers, Package Deliverers and Luggage Porters	962
+9622	Odd-job Persons	962
+9623	Meter Readers and Vending-machine Collectors	962
+9624	Water and Firewood Collectors	962
+9629	Elementary Workers Not Elsewhere Classified	962
+110	Commissioned Armed Forces Officers	11
+210	Non-commissioned Armed Forces Officers	21
+310	Armed Forces Occupations, Other Ranks	31
