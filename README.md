@@ -26,7 +26,7 @@ These tab-separated files (i.e., `.tsv`) can be uploaded as-is to Survey Solutio
 
 ### Run the code for translations
 
-If one has a new translation that has the same file format and same data structure (e.g., `ISCO-08 FR.csv` for French), one should:
+If one has a new translation that has the same file format and same data structure (e.g., `ISCO-08 ES.csv` for Spanish), one should:
 
 - Download or clone the repository
 - Install the bare essentials
@@ -34,11 +34,12 @@ If one has a new translation that has the same file format and same data structu
   - `renv` package project-specific virtual environments
 - Open the project as an R project
 - Place the target file in `data/01_input`
-- Change the values of
+- Make a copy of the appropriate script and save it in `R/`. The English script assumes the most recent file format (CSV in tidy format). The French script assumes an older file format (Excel in a cascading format).
+- Change the values of the following parameters in that file:
   - `isco_file` to the file name (with extension)
   - `isco_lang` to the language (e.g., two-letter language)
 - Run `create_suso_isco_codes.R`
-- Recover the outupt files in `data/02_output/`
+- Recover the output files in `data/02_output/`
 
 ## Details
 
