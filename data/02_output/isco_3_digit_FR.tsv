@@ -1,0 +1,131 @@
+value	title	parentvalue
+111	Membres des corps législatifs et cadres supérieurs de l'administration publique	11
+112	Directeurs généraux d'entreprise	11
+121	Directeurs  de services administratifs	12
+122	Directeurs et cadres de direction, ventes, commercialisation et développement	12
+131	Directeurs et cadres de direction,  agriculture, sylviculture et pêche	13
+132	Directeurs et cadres de direction, industries manufacturières, mines, bâtiment et distribution	13
+133	Directeurs et cadres de direction, technologies de l'information et des communications	13
+134	Cadres de direction, services spécialisés	13
+141	Directeurs et gérants, hôtellerie et restauration	14
+142	Directeurs et gérants, commerce de détail et de gros	14
+143	Autres directeurs et gérants	14
+211	Physiciens, chimistes et assimilés	21
+212	Mathématiciens, actuaires et statisticiens	21
+213	Spécialistes des sciences de la vie	21
+214	Spécialistes, sciences techniques (sauf électrotechniques)	21
+215	Ingénieurs de l'électrotechnique	21
+216	Architectes, urbanistes, géomètres et concepteurs	21
+221	Médecins	22
+222	Cadres infirmiers et sages-femmes	22
+223	Spécialistes des médecines traditionnelles et des médecines complémentaires	22
+224	Praticiens paramédicaux	22
+225	Vétérinaires	22
+226	Autres spécialistes des professions de la santé	22
+231	Professeurs d'université et d'établissements d'enseignement supérieur	23
+232	Professeurs, enseignement technique et professionnel	23
+233	Professeurs, enseignement secondaire	23
+234	Instituteurs, enseignement primaire et éducateurs de la petite enfance	23
+235	Autres spécialistes de l'enseignement	23
+241	Spécialistes en finances	24
+242	Spécialistes des fonctions administratives	24
+243	Spécialistes des ventes, de la  commercialisation et des relations publiques	24
+251	Concepteurs et analystes de logiciels et de multimédia	25
+252	Spécialistes des bases de données et des réseaux d'ordinateurs	25
+261	Juristes	26
+262	Archivistes, bibliothécaires, documentalistes et assimilés	26
+263	Spécialistes des sciences sociales et du clergé	26
+264	Auteurs, journalistes et linguistes	26
+265	Artistes créateurs et exécutants	26
+311	Techniciens des sciences physiques et techniques	31
+312	Superviseurs, mines, industries manufacturières et bâtiment	31
+313	Techniciens, contrôle de processus industriels	31
+314	Techniciens et travailleurs assimilés des sciences de la vie	31
+315	Contrôleurs et techniciens des moyens de transport maritime et aérien	31
+321	Techniciens de la médecine et de la pharmacie	32
+322	Personnel infirmier et sages femmes (niveau intermédiaire)	32
+323	Praticiens des médecines traditionnelles et des médecines complémentaires	32
+324	Techniciens et assistants vétérinaires	32
+325	Autres professions intermédiaires de la santé	32
+331	Professions intermédiaires de la finance et des mathématiques	33
+332	Agents de vente et d'achat, courtiers	33
+333	Agents de services commerciaux	33
+334	Secrétaires d'administration et secrétaires spécialisés	33
+335	Professions intermédiaires de l'application de la loi et assimilées	33
+341	Professions intermédiaires des services juridiques, des services sociaux et des religions	34
+342	Travailleurs du secteur des sports et des activités de remise en forme	34
+343	Professions intermédiaires de la culture, de la création artistique et des activités culinaires	34
+351	Techniciens, opérations et soutien aux utilisateurs des technologies de l'information et des communications	35
+352	Techniciens des télécommunications et de la radio diffusion	35
+411	Employés de bureau, fonctions générales	41
+412	Secrétaires (fonctions générales)	41
+413	Opérateurs sur clavier	41
+421	Guichetiers, encaisseurs et assimilés	42
+422	Employés chargés d'informer la clientèle	42
+431	Employés des services comptables et financiers	43
+432	Employés d'approvisionnement, d'ordonnancement et des transports	43
+441	Autres employés de type administratif	44
+511	Agents d'accompagnement et assimilés (transports et tourisme)	51
+512	Cuisiniers	51
+513	Serveurs et barmen	51
+514	Coiffeurs, esthéticiens et assimilés	51
+515	Intendants, gouvernantes et concierges	51
+516	Autre personnel des services directs aux particuliers	51
+521	Vendeurs sur les marchés et vendeurs ambulants de comestibles	52
+522	Commerçants et vendeurs, magasins	52
+523	Caissiers et billettistes	52
+524	Autres vendeurs	52
+531	Gardes d'enfants et aides-enseignants	53
+532	Aides-soignants	53
+541	Personnel des services de protection et de sécurité	54
+611	Agriculteurs et ouvriers qualifiés, cultures commerciales	61
+612	Eleveurs et ouvriers qualifiés de l'élevage commercial et assimilés	61
+613	Agriculteurs et ouvriers qualifiés des cultures et de l'élevage à but commercial	61
+621	Professions de la sylviculture et assimilées	62
+622	Pêcheurs, chasseurs et trappeurs	62
+631	Agriculteurs, subsistance	63
+632	Eleveurs de bétail, subsistance	63
+633	Agriculteurs et éleveurs, subsistance	63
+634	Pêcheurs, chasseurs, trappeurs et cueilleurs, subsistance	63
+711	Métiers qualifiés du bâtiment (gros oeuvre) et assimilés	71
+712	Métiers qualifiés du bâtiment (finitions) et assimilés	71
+713	Ouvriers peintres, ravaleurs de façades et assimilés	71
+721	Mouleurs de fonderie, soudeurs, tôliers-chaudronniers, monteurs de charpentes métalliques et assimilés	72
+722	Forgerons, outilleurs et assimilés	72
+723	Mécaniciens et réparateurs de machines	72
+731	Métiers de l'artisanat	73
+732	Métiers de l'imprimerie	73
+741	Installateurs et réparateurs, équipements électriques	74
+742	Monteurs et réparateurs, électronique et télécommunications	74
+751	Métiers qualifiés de l'alimentation et assimilés	75
+752	Métiers qualifiés du traitement du bois, ébénistes et assimilés	75
+753	Métiers qualifiés de l'habillement et assimilés	75
+754	Autres métiers qualifiés de l'industrie et de l'artisanat	75
+811	Conducteurs d'installations d'exploitation minière et d'extraction des minéraux	81
+812	Conducteurs d'installations de transformation et de traitement superficiel des métaux	81
+813	Conducteurs d'installations et de machines pour la fabrication des produits chimiques et photographiques	81
+814	Conducteurs de machines pour la fabrication de produits en caoutchouc, en matières plastiques et en papeterie	81
+815	Conducteurs de machines pour la fabrication de produits textiles et d'articles en fourrure et en cuir	81
+816	Conducteurs de machines pour la fabrication de denrées alimentaires et de produits connexes	81
+817	Conducteurs d'installations pour la fabrication du papier et pour le travail du bois	81
+818	Autres conducteurs de machines et d'installations fixes	81
+821	Ouvriers de l'assemblage	82
+831	Conducteurs de locomotives et assimilés	83
+832	Conducteurs d'automobiles, de camionnettes et de motocycles	83
+833	Conducteurs de poids lourds et d'autobus	83
+834	Conducteurs de matériels et engins mobiles	83
+835	Matelots de pont et assimilés	83
+911	Aides de ménage et agents d'entretien à domicile et dans les hôtels et bureaux	91
+912	Laveurs de véhicules et de vitres, laveurs de linge et autres nettoyeurs manuels	91
+921	Manoeuvres de l'agriculture, de la pêche et de la sylviculture	92
+931	Manoeuvres des mines, du bâtiment et des travaux publics	93
+932	Manoeuvres des industries manufacturières	93
+933	Manoeuvres des transports et de l'entreposage	93
+941	Assistants de fabrication de l'alimentation	94
+951	Travailleurs des petits métiers des rues et assimilés	95
+952	Vendeurs ambulants (à l'exception de l'alimentation)	95
+961	Eboueurs	96
+962	Autres professions élémentaires	96
+11	Officiers des forces armées	1
+21	Sous-officiers des forces armées	2
+31	Autres membres des forces armées	3
